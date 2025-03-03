@@ -1,0 +1,38 @@
+Total Lines of Code: 528
+
+Function LOC and Cyclomatic Complexity:
+next: 86 LOC, Complexity 57
+expr: 150 LOC, Complexity 76
+stmt: 49 LOC, Complexity 15
+main: 196 LOC, Complexity 98
+
+Global Variables:
+
+Unique Tokens and Frequency:
+if: 199
+tk: 190
+e: 152
+else: 149
+next: 96
+d: 72
+ty: 65
+p: 62
+i: 61
+a: 59
+id: 58
+int: 56
+sp: 56
+n: 52
+printf: 52
+return: 42
+PSH: 38
+line: 37
+expr: 37
+INT: 33
+
+Branches: 203
+Loops: 32
+
+Memory Usage:
+Heap Allocations: 8
+Stack Allocations: 32

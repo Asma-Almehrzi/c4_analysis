@@ -1,0 +1,28 @@
+
+C4 Code Analysis Report
+
+Lines of Code (LOC):
+- Total: 1304
+- Per function: {'next': 230, 'expr': 506, 'stmt': 55, 'main': 357}
+
+Cyclomatic Complexity per Function:
+{'next': 68, 'expr': 105, 'stmt': 21, 'main': 104}
+
+Number of Functions: 4
+Function Sizes (LOC):
+{'next': 230, 'expr': 506, 'stmt': 55, 'main': 357}
+
+Global Variables: 8
+Global Variables Used:
+{'fd', 'tk', '*pp', '*e', '*p', '*a', 't', 'i'}
+
+Unique Tokens and Frequency:
+[('if', 221), ('tk', 192), ('e', 166), ('else', 154), ('next', 101), ('a', 78), ('Handle', 76), ('1', 74), ('the', 72), ('int', 69), ('p', 65), ('ty', 65), ('i', 61), ('id', 58), ('sp', 56), ('printf', 53), ('n', 53), ('return', 50), ('lld', 48), ('and', 45)] (Top 20 most common)
+
+Number of Branches: 244
+Number of Loops: 63
+Nesting Levels: Max 7, Avg 2.57
+
+Memory Usage Patterns:
+- Stack Allocations: 23
+- Heap Allocations: 7
